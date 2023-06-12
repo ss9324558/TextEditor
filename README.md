@@ -20,7 +20,10 @@ It Currenlty have only 3 Colour available
   <li>Yellow whith Black</li>
   <li>Pink whith Black</li>
 </ul>
-![Screenshot_3](https://github.com/ss9324558/TextEditor/assets/115810209/9f0bbf09-c4df-475f-9c42-82179f5a4d45)
+
+![Screenshot_3](https://github.com/ss9324558/TextEditor/assets/115810209/17558b83-001a-460d-9328-ee3bc8a7388b)
+
+
 It also Have pink selector colour
 more selector comming soon.........
 more feature comming soon..........
