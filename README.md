@@ -25,5 +25,5 @@ It Currenlty have only 3 Colour available
 
 
 It also Have pink selector colour
-more selector comming soon.........<br>
-more feature comming soon..........
+more selector comming soon &#128513;&#128513;&#128513;&#128513;&#128513; <br>
+more feature comming soon &#128513;&#128513;&#128513;&#128513;&#128513;
